@@ -1,7 +1,24 @@
 {
   "name": "isoneof",
+  "version": "1.0.1",
+  "description": "Type-safe utility to check if a value is one of a list of allowed values",
   "module": "src/index.ts",
   "type": "module",
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "isoneof",
+    "type",
+    "typescript",
+    "types",
+    "safe",
+    "typesafe",
+    "utility"
+  ],
+  "author": "GameRoMan",
+  "license": "MIT",
   "devDependencies": {
     "@types/bun": "latest"
   },
